@@ -5,7 +5,7 @@
   "description": "Official Amazon Product Advertising API 5.0 [Forked SDK]",
   "keywords": ["php","amazon","product","api","paapi5"],
   "homepage": "https://jakiboy.github.io/paapi5/",
-  "license": "Apache2.0",
+  "license": "Apache-2.0",
   "authors": [
     {
       "name": "Amazon Product Advertising API Team",
