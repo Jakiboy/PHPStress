@@ -11,7 +11,7 @@ composer require jakiboy/paapi5
 
 ## Use :
 
-e.g. Using GetItems : Set Credentials in GetItems.php
+e.g. Using GetItems : Set Credentials in GetItems.php  
 Run Command Inside Tests Folder :
 
 ```
@@ -20,5 +20,5 @@ php GetItems.php
 
 ## Incoming Development :
 
-Amazon Product Advertising API 5.0 Wrapper Lib.
+Amazon Product Advertising API 5.0 Wrapper Lib.  
 Feel free to contribute.
