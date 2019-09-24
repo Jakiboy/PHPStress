@@ -28,8 +28,8 @@
  */
 
 use Jakiboy\paapi5\lib\API\DefaultApi;
-use Jakiboy\paapi5\incApiException;
-use Jakiboy\paapi5\incConfiguration;
+use Jakiboy\paapi5\inc\ApiException;
+use Jakiboy\paapi5\inc\Configuration;
 use Jakiboy\paapi5\lib\GetBrowseNodesRequest;
 use Jakiboy\paapi5\lib\GetBrowseNodesResource;
 use Jakiboy\paapi5\lib\PartnerType;

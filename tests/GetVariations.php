@@ -28,8 +28,8 @@
  */
 
 use Jakiboy\paapi5\lib\api\DefaultApi;
-use Jakiboy\paapi5\incApiException;
-use Jakiboy\paapi5\incConfiguration;
+use Jakiboy\paapi5\inc\ApiException;
+use Jakiboy\paapi5\inc\Configuration;
 use Jakiboy\paapi5\lib\GetVariationsRequest;
 use Jakiboy\paapi5\lib\GetVariationsResource;
 use Jakiboy\paapi5\lib\PartnerType;

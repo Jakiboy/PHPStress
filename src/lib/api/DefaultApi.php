@@ -21,10 +21,10 @@ use GuzzleHttp\Exception\RequestException;
 use GuzzleHttp\Psr7\MultipartStream;
 use GuzzleHttp\Psr7\Request;
 use GuzzleHttp\RequestOptions;
-use Jakiboy\paapi5\incApiException;
-use Jakiboy\paapi5\incConfiguration;
-use Jakiboy\paapi5\incHeaderSelector;
-use Jakiboy\paapi5\incObjectSerializer;
+use Jakiboy\paapi5\inc\ApiException;
+use Jakiboy\paapi5\inc\Configuration;
+use Jakiboy\paapi5\inc\HeaderSelector;
+use Jakiboy\paapi5\inc\ObjectSerializer;
 use Jakiboy\paapi5\lib\SignHelper;
 use http\Exception;
 
