@@ -18,7 +18,7 @@ Run Command Inside Tests Folder :
 php GetItems.php
 ```
 
-## Incoming Development :
+## Checkout Also :
 
-Amazon Product Advertising API 5.0 Wrapper Lib.  
+[Amazon Product Advertising API 5.0 Wrapper Lib.](https://github.com/Jakiboy/apaapi) 
 Feel free to contribute.
